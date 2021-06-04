@@ -6,4 +6,3 @@ define the alias in the current shell scope
   alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 checkout the actual content from the git repository to your $HOME
   dotfiles checkout
-test
