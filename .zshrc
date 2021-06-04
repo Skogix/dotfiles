@@ -162,7 +162,7 @@ BASE16_SHELL="$HOME/.config/base16-shell/"
     [ -s "$BASE16_SHELL/profile_helper.sh" ] && \
         eval "$("$BASE16_SHELL/profile_helper.sh")"
 
-alias config='/usr/bin/git --git-dir=/home/skogix/.cfg/ --work-tree=/home/skogix'
+//alias config='/usr/bin/git --git-dir=/home/skogix/.cfg/ --work-tree=/home/skogix'
 
 # make it vim
 bindkey -v
